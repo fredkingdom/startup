@@ -5,7 +5,8 @@
     "local_port": 1080,
 
     "port_password":{ "80":"1q2w3e4r",
-    "443":"password1"},
+    "443":"password1",
+    "444":"password2"},
     "method": "chacha20",
     "protocol": "origin",
     "protocol_param": "",
